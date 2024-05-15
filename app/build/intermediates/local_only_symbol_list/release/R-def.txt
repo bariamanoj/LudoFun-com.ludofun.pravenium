@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable logo
+drawable splash
+id web_pravenium_view
+layout activity_splashpravenium
+layout activity_web_pravenium
+string app_name
+style Theme.LudoFun
+style launcherLangTheme

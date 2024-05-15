@@ -1,0 +1,4 @@
+#Wed May 15 09:44:39 UTC 2024
+base.0=/home/ec2-user/DemoSample/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

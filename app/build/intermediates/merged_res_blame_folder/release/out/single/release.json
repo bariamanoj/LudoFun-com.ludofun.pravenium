@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ludofun.pravenium.app-merged_res-29:/drawable_splash.jpeg.flat",
+        "source": "com.ludofun.pravenium.app-main-30:/drawable/splash.jpeg"
+    },
+    {
+        "merged": "com.ludofun.pravenium.app-merged_res-29:/layout_activity_web_pravenium.xml.flat",
+        "source": "com.ludofun.pravenium.app-main-30:/layout/activity_web_pravenium.xml"
+    },
+    {
+        "merged": "com.ludofun.pravenium.app-merged_res-29:/layout_activity_splashpravenium.xml.flat",
+        "source": "com.ludofun.pravenium.app-main-30:/layout/activity_splashpravenium.xml"
+    },
+    {
+        "merged": "com.ludofun.pravenium.app-merged_res-29:/drawable_logo.jpeg.flat",
+        "source": "com.ludofun.pravenium.app-main-30:/drawable/logo.jpeg"
+    }
+]
